@@ -1,7 +1,10 @@
 ### Hello :)  
 
--  I’m currently learning language C
--  How to reach me: gbarulls@gmail.com
+-  I’m currently studying at 42 School, learning C actually (it's only the begin).
+-  Finishing the LPCI-1 and DevOps certifications.
+-  I'm really enjoying the path to my new technical profile.
+-  Uploading all the way as Linux administrator and software developer to this profile.
+-  How to contact me? I leave a pair of buttons at the bottom, be free to use it.
 
 ##
 
