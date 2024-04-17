@@ -1,6 +1,6 @@
 ### Hello :)  
 
--  I’m currently studying at 42 School (added repository with all my current job).
+-  I’m currently studying at 42 School.
 -  Finishing the LPCI-1 and DevOps certifications.
 -  I'm really enjoying the path to my new technical profile.
 -  Uploading all the way as Linux administrator and software developer to this profile.
