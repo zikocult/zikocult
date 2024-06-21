@@ -4,7 +4,6 @@
 -  Finished the LPCI-1 and working in the DevOps certification.
 -  I'm really enjoying the path to my new technical profile.
 -  Uploading all the way as Linux administrator and software developer to this profile.
--  How to contact me? I add a pair of buttons, feel free to contact me.
 
 Take a look to my path in [42 Barcelona][1] clicking [**here**](https://github.com/zikocult/Cursus42/tree/main)
 
