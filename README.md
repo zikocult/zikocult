@@ -21,7 +21,7 @@ Take a look to my path in [42 Barcelona][1] clicking [**here**](https://github.c
 
 ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/zikocult">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zikocult&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikocult&layout=compact&langs_count=7&theme=panda"/>
