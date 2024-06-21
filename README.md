@@ -22,6 +22,7 @@ Take a look to my path in [42 Barcelona][1] clicking [**here**](https://github.c
 
 ##
 
+*Be free to contact with me:*
 <div align="left">
   <br>
   <a href = "mailto:gbarulls@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
