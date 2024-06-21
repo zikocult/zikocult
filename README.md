@@ -1,4 +1,4 @@
-### Hello 
+### HI, my name is Guillem Barulls
 
 -  I’m currently studying at 42 School in Barcelona, developing my coding skills.
 -  Finished the LPCI-1 and working in the DevOps certification.
