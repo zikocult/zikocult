@@ -9,10 +9,8 @@
 Take a look to my path in [42 Barcelona][1] clicking [**here**](https://github.com/zikocult/Cursus42/tree/main)
 
 <div align="left">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/gbaruls-?1337Badge=off&UM6P=off" alt="gbaruls-'s 42 stats" /></a>
+<a href="https://github.com/zikocult/Cursus42/tree/main"><img src="https://badge.mediaplus.ma/darkblue/gbaruls-?1337Badge=off&UM6P=off" alt="gbaruls-'s 42 stats" /></a>
 </div>
-
-[![gbaruls-'s 42 stats](https://badge.mediaplus.ma/darkblue/gbaruls-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ##
 
