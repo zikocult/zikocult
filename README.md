@@ -1,11 +1,11 @@
 ### HI!, my name is Guillem Barulls 😄
 
--  I’m currently studying at 42 School in Barcelona, developing my coding skills.
+-  I’m currently studying at [42 School in Barcelona][1], developing my coding skills.
 -  Finished the LPCI-1 and working in the DevOps certification.
 -  I'm really enjoying the path to my new technical profile.
 -  Uploading all the way as Linux administrator and software developer to this profile.
 
-Take a look to my path in [42 Barcelona][1] clicking [**here**](https://github.com/zikocult/Cursus42/tree/main)
+Take a look to my path in 42 Barcelona clicking [**here**](https://github.com/zikocult/Cursus42/tree/main)
 
 <div align="left">
 <a href="https://github.com/zikocult/Cursus42/tree/main"><img src="https://badge.mediaplus.ma/darkblue/gbaruls-?1337Badge=off&UM6P=off" alt="gbaruls-'s 42 stats" /></a>
