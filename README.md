@@ -1,7 +1,7 @@
 ### HI!, my name is Guillem Barulls 😄
 
 -  I’m currently studying at [42 School in Barcelona][1], developing my coding skills.
--  Finished the LPCI-1 and working in the DevOps certification.
+-  Finished the [LPIC-1](lpi.org/v/LPI000602075/4dkac4z8b2) and working in the LPIC-2 certification.
 -  I'm really enjoying the path to my new technical profile.
 -  Uploading all the way as Linux administrator and software developer to this profile.
 
