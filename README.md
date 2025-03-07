@@ -25,7 +25,7 @@ Take a look to my path in 42 Barcelona clicking [**here**](https://github.com/zi
 *Be free to contact with me:*
 <div align="left">
   <a href = "mailto:gbarulls@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guillem-barulls-casades%C3%BAs-9906001a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guillem-barulls-casadesús-it-project-manager/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/zikocult" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
 
