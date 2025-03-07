@@ -1,6 +1,6 @@
 ### HI!, my name is Guillem Barulls 😄
 
--  I’m currently studying at [42 School in Barcelona][1], developing my coding skills.
+-  With more than 10 years in the IT project Management, I’m currently studying at [42 School in Barcelona][1], developing my coding skills.
 -  Finished the [LPIC-1](https://lpi.org/v/LPI000602075/4dkac4z8b2) and working in the LPIC-2 certification.
 -  Improving my project management skills.
 -  I'm really enjoying the path to my new technical profile.
