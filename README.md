@@ -8,10 +8,6 @@
 
 Take a look to my path in 42 Barcelona clicking [**here**](https://github.com/zikocult/Cursus42/tree/main)
 
-<div align="left">
-<a href="https://github.com/zikocult/Cursus42/tree/main"><img src="https://badge.mediaplus.ma/darkgray/gbaruls-?1337Badge=off&UM6P=off" alt="gbaruls-'s 42 stats" /></a>
-</div>
-
 ##
 
 <div align="left">
